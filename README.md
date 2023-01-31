@@ -15,7 +15,7 @@
 
 ### Links
 
-- Live Site URL: [Live site](https://bekaChaduneli.github.io/skilled-elearning-landing-page)
+- Live Site URL: [Live site](https://encouraging-catnip-washer.glitch.me/)
 - Solution URL: [Solution URL](https://github.com/bekaChaduneli/skilled-elearning-landing-page)
 
 ### Built with
